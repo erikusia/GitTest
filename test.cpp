@@ -3,3 +3,7 @@
 
 	私は鳥になりたい
 }
+
+void test() {
+	printf("gundam")
+}
